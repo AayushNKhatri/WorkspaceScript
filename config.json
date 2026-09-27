@@ -1,0 +1,17 @@
+[   
+    {
+        "name":"office",
+        "path":"D:/Code/office/ants_credit_customer_portal_react_code",
+        "launch":"code"
+    },
+    {
+        "name": "personal",
+        "path" : "D:/Code/Java/inventoy/inventoy",
+        "launch":"idea64.exe"
+    },
+    {
+        "name":"Visual Studio",
+        "path":"",
+        "launch":"D:/Software/Visual Studio/Common7/IDE/devenv.exe /resetstartuppages"
+    }
+]
